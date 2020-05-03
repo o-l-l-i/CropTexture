@@ -1,9 +1,5 @@
 # CropTexture
 
-![CropTexture Panel](cropTexture_panel.png) ![CropTexture Panel](cropTexture_panel2.png)
-
-## What is it
-
 I wrote this small tool so that I could crop images right inside Unity Editor.
 
 It should be placed somewhere in a project inside an Editor folder.
@@ -11,6 +7,8 @@ It should be placed somewhere in a project inside an Editor folder.
 Then it can be launched in Project folder in the right click popup menu.
 
 ![CropTexture Menu](cropTexture_menu.png)
+
+![CropTexture Panel](cropTexture_panel.png) ![CropTexture Panel](cropTexture_panel2.png)
 
 ## Features
 
