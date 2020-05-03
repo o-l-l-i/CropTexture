@@ -1,6 +1,6 @@
 # CropTexture
 
-![CropTexture Panel](cropTexture_panel.png)
+![CropTexture Panel](cropTexture_panel.png) ![CropTexture Panel](cropTexture_panel2.png)
 
 ## What is it
 
