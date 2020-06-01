@@ -26,3 +26,5 @@ Then it can be launched in Project folder in the right click popup menu.
 Currently it is intended only for single images, there's no batch processing.
 
 Developed on Unity 2018.4.12f1.
+
+© 2020 Olli Sorjonen All Rights Reserved
